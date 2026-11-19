@@ -8,11 +8,19 @@
 #newtab = true
 [[main]]
 name = "Contact"
-pageRef = "/contact/"
+url = "/contact/"
 weight = 10
 
 [main.params]
 icon = "mail"
+
+[[social]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/mitchelldjunaedi/"
+
+    [social.params]
+	icon = "brand-linkedin"
 
 [[social]]
     identifier = "github"
@@ -21,11 +29,3 @@ icon = "mail"
 
     [social.params]
         icon = "brand-github"
-
-[[social]]
-    identifier = "email"
-    name = "Email"
-    url = "mailto:mitchell@djunaedi.net"
-
-    [social.params]
-	icon = "mail"
