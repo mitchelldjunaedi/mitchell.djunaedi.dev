@@ -1,6 +1,6 @@
 ## Repository Purpose
 
-This repository serves as the source code for Mitchell Djunaedi's personal blog: mitchell.djunaedi.dev
+This repository serves as the source code for Mitchell Djunaedi's personal blog: [mitchell.djunaedi.dev](https://mitchell.djunaedi.dev/)
 
 ## Colophon
 
