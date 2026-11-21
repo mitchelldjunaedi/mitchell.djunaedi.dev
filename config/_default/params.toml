@@ -11,7 +11,7 @@ SortBy              = "default"
 
 [footer]
     since      = 2026
-    customText = ""
+    customText = 'Source: <a href="https://github.com/mitchelldjunaedi/mitchell.djunaedi.dev">GitHub</a> · Content AGPL-3.0-or-later'
 
 [dateFormat]
     published   = ":date_full"

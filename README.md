@@ -45,3 +45,8 @@ hugo mod tidy
 ## Deploy to another static page hostings
 
 Check official Hugo documentation: https://gohugo.io/host-and-deploy/
+
+## Colophon
+
+Site content © Mitchell Djunaedi, AGPL-3.0-or-later.
+Built with [Hugo](https://gohugo.io) and the [Stack theme](https://github.com/CaiJimmy/hugo-theme-stack) by Jimmy Cai (GPL-3.0), loaded as a Hugo module.

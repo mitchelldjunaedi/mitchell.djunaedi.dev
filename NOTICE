@@ -1,0 +1,8 @@
+Portions of this repository (starter scaffolding: config/_default
+skeleton, starter content pages, .gitignore) are Copyright (c)
+2021 Jimmy Cai, licensed under the MIT License. Those files retain
+their MIT licensing; the remainder of this repository is
+Copyright (C) 2026 Mitchell Djunaedi, AGPL-3.0-or-later.
+The Stack theme (github.com/CaiJimmy/hugo-theme-stack) is GPL-3.0
+and is not distributed in this repository; it is loaded as a
+Hugo module per go.mod.
