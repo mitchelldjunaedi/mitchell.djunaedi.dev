@@ -11,7 +11,7 @@ SortBy              = "default"
 
 [footer]
     since      = 2026
-    customText = 'Source: <a href="https://github.com/mitchelldjunaedi/mitchell.djunaedi.dev">GitHub</a> · Content AGPL-3.0-or-later'
+    customText = 'Source: <a href="https://github.com/mitchelldjunaedi/mitchell.djunaedi.dev">GitHub</a> · Content AGPL-3.0-or-later · Writing CC BY-SA 4.0'
 
 [dateFormat]
     published   = ":date_full"
@@ -28,7 +28,7 @@ SortBy              = "default"
 
     [article.license]
         enabled = true
-        default = "Licensed under CC BY-NC-SA 4.0"
+        default = "Licensed under CC BY-SA 4.0"
 
 [widgets]
     homepage = [
@@ -49,7 +49,7 @@ SortBy              = "default"
 
 ## Comments
 [comments]
-    enabled  = true
+    enabled  = false
     provider = "disqus"
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
